@@ -13,5 +13,11 @@ Explain how to get a copy of the project up and running on a local machine.
     ```sh
     cd Xogene
     ```
-3. npm i
-4. npm run dev
+3. install dependencies
+  ```sh
+    npm i
+    ```
+5. run
+  ```sh
+    npm run dev
+    ```
